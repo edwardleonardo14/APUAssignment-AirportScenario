@@ -1,4 +1,4 @@
-# APUAssignment-AirportScenario
+# APU Assignment - Airport Scenario
 
 As Part of APU Module, Concurrent Programming (CCP), students is tasked to developed an Airport Scenario using Concurrency Techniques.
 
